@@ -29,8 +29,7 @@ This project highlights my ability to:
 
 ## 🗂️ Project Structure
 ```bash
-Serendib-Travels/
-│
+|
 ├── index.html
 ├── Aboutus.html
 ├── Gallery.html
