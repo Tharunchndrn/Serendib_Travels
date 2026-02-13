@@ -29,7 +29,6 @@ This project highlights my ability to:
 
 ## 🗂️ Project Structure
 ```bash
-|
 ├── index.html
 ├── Aboutus.html
 ├── Gallery.html
